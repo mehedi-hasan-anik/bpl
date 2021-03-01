@@ -1,0 +1,18 @@
+
+.Container{
+  display:flex;
+}
+.left-container{
+    width: 70%;
+}
+
+.right-container{
+ margin-left: 60px;
+ border: 1px solid #000;
+ padding: 10px;
+}
+.right-container h1{
+   color: blue;
+   padding-bottom: 10px;
+   border-bottom: 1px solid blue;
+}

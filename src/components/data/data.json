@@ -1,0 +1,76 @@
+[{
+    "image": "https://www.cricket.com.au/-/media/Players/Men/International/Bangladesh/Mashrafe-Mortaza-CWC19.ashx",
+    "name": "Mashrafe Bin Mortaza",
+    "salary": 100000,
+    "gender": "Male"
+  }, {
+    "image": "https://resources.pulse.icc-cricket.com/players/284/287.png",
+    "name": "Tamim Iqbal",
+    "salary": 100000,
+    "gender": "Male"
+  }, {
+    "image": "https://resources.pulse.icc-cricket.com/players/284/1596.png",
+    "name": "Liton Das",
+    "salary": 90000,
+    "gender": "Male"
+  }, {
+    "image": "https://resources.pulse.icc-cricket.com/players/284/201.png",
+    "name": "Shakib Al Hasan",
+    "salary": 100000,
+    "gender": "Male"
+  }, {
+    "image": "https://www.cricket.com.au/-/media/Players/Men/International/Bangladesh/Mushfiqur-Rahim-CWC19.ashx",
+    "name": "Mushfiqur Rahman",
+    "salary": 100000,
+    "gender": "Male"
+  }, {
+    "image": "https://storage.googleapis.com/cricketimages/Players/HB.png",
+    "name": "Mohamad Mithun",
+    "salary": 70000,
+    "gender": "Male"
+  }, {
+    "image": "https://resources.pulse.icc-cricket.com/players/284/1919.png",
+    "name": "Soumya Sarkar",
+    "salary": 80000,
+    "gender": "Male"
+  }, {
+    "image": "https://resources.pulse.icc-cricket.com/players/champions-trophy-2017/284/492.png",
+    "name": "Mahamudulla Riyad",
+    "salary": 100000,
+    "gender": "Male"
+  }, {
+    "image": "https://www.cricket.com.au/-/media/Players/Men/International/Bangladesh/Sabbir-Rahman-CWC19.ashx",
+    "name": "Sabbir Rahman",
+    "salary": 750000,
+    "gender": "Male"
+  }, {
+    "image": "https://www.cricket.com.au/-/media/Players/Men/International/Bangladesh/Mehedi-Hasan-CWC19.ashx",
+    "name": "Mehedi Miraz",
+    "salary": 50000,
+    "gender": "Male"
+  }, {
+    "image": "https://resources.pulse.icc-cricket.com/players/284/1135.png",
+    "name": "Rubel Hossain",
+    "salary": 75000,
+    "gender": "Male"
+  }, {
+    "image": "https://www.cricket.com.au/-/media/Players/Men/International/Bangladesh/Mustafizur-Rahman-CWC19.ashx",
+    "name": "Mustafizur Rahman",
+    "salary": 80000,
+    "gender": "Male"
+  }, {
+    "image": "https://resources.pulse.icc-cricket.com/players/champions-trophy-2017/284/3715.png",
+    "name": "Abu Jayed Rahi",
+    "salary": 50000,
+    "gender": "Male"
+  }, {
+    "image": "https://resources.pulse.icc-cricket.com/players/284/2915.png",
+    "name": "Mohammad Saifuddin",
+    "salary": 50000,
+    "gender": "Male"
+  }, {
+    "image": "https://www.cricket.com.au/-/media/Players/Men/International/Bangladesh/Mosaddek-Hossain-CWC19.ashx",
+    "name": "Mosaddek Hossain",
+    "salary": 50000,
+    "gender": "Male"
+  }]

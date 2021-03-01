@@ -1,0 +1,17 @@
+.playerCart{
+   border: 1px solid grey;
+   padding: 10px;
+    margin: 20px;
+    display:flex;
+    text-align: left;
+}
+.playerCart-left{
+    width: 40%;
+}
+.playerCart-right{
+    text-align:left;
+
+}
+.playerCart-right button{
+    cursor: pointer;
+}
